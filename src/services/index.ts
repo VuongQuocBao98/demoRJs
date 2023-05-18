@@ -1,0 +1,11 @@
+export { default as EndPoint } from './Endpoint';
+export { default as AuthService } from './Auth';
+export { default as LecturerService } from './Lecturer';
+export { default as OverviewService } from './Overview';
+export { default as ResultService } from './Result';
+export { default as ExamService } from './Exam';
+export { default as AnswerService } from './Answer';
+export { default as CandidatePaperService } from './CandidatePaper';
+export { default as CandidateService } from './Candidate';
+export { default as CertificateService } from './Certificate';
+export { default as ExamRoomService } from './ExamRoom';

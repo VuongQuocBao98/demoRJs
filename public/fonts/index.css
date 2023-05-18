@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 400;
+  font-style: normal;
+  src: local('CircularStd'), url('CircularStd-Book.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 500;
+  font-style: normal;
+  src: local('CircularStd'), url('CircularStd-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 700;
+  font-style: normal;
+  src: local('CircularStd'), url('CircularStd-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'InterRegular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('InterRegular'), url('./Inter/Inter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Inter'), url('./Inter/Inter-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'InterSemiBold';
+  font-weight: 600;
+  font-style: normal;
+  src: local('InterSemiBold'), url('./Inter/Inter-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'InterBold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('InterBold'), url('./Inter/Inter-Bold.ttf') format('truetype');
+}
